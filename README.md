@@ -3,4 +3,4 @@ Single player dots-and-boxes with simple AI
 
 ## demo
 
-https://bibhuticoder.github.io/dots-and-boxes
+https://bibhuticoder.github.io/dots-and-boxes/
